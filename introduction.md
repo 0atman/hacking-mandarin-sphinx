@@ -1,3 +1,9 @@
+Tristram Oaten & Rongjie Wang
+
+Table of Contents:
+
+
+#### Introduction
 
 Pinyin ftw. Reading characters is fine, and can be picked up during vocab learning.
 
