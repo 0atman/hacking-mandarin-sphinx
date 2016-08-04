@@ -1,6 +1,3 @@
-_Tristram Oaten & Rongjie Wang_
-
-Table of Contents:
 
 
 #### Introduction
