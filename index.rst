@@ -4,4 +4,4 @@ Hacking Mandarin
 .. toctree::
    :glob:
 
-   index
+   introduction
