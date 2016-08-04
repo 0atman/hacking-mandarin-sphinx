@@ -1,7 +1,7 @@
-Hackind Mandarin
+Hacking Mandarin
 ----------------
 
 .. toctree::
    :glob:
 
-   markdown
+   index
