@@ -1,4 +1,4 @@
-Tristram Oaten & Rongjie Wang
+_Tristram Oaten & Rongjie Wang_
 
 Table of Contents:
 
