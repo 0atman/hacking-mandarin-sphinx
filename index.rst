@@ -1,7 +1,7 @@
 Hacking Mandarin
 ----------------
 
-*Tristram Oaten & Rongjie Wang_*
+*Tristram Oaten & Rongjie Wang*
 
 Table of Contents:
 
