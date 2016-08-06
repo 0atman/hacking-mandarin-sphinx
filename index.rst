@@ -9,3 +9,4 @@ Table of Contents:
    :glob:
 
    introduction
+   word-order
