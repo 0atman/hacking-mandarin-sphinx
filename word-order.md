@@ -1,8 +1,5 @@
 #### Word Order
 
-
-> Gimli yesterday at Helm's Deep with Legolas smote some orcs.
-
 Here's the `man` page:
 
 ```yaml
@@ -10,10 +7,13 @@ MANDARIN(1)                User Commands                     MANDARIN(1)
 NAME
 
        mandarin - natural-language protocol
+
 SYNOPSIS
 
        mandarin: subject verb [object]
        mandarin: subject [time] [place] [preposition] verb [object]
+       
+       eg. "Gimli yesterday at Helm's Deep with Legolas smote some orcs."
        
 DESCRIPTION
 
