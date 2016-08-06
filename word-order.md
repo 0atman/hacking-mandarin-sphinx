@@ -9,7 +9,7 @@ Here's the `man` page:
 MANDARIN(1)                User Commands                     MANDARIN(1)
 NAME
 
-       manarin - natural-language protocol
+       mandarin - natural-language protocol
 SYNOPSIS
 
        mandarin: subject verb [object]
