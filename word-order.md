@@ -22,9 +22,9 @@ DESCRIPTION
 ARGUMENTS
 
        The arguments are ordinal with the following 3 rules:
-                     1. [subject] then [verb] then [object]
-                     2. adverbial phrases before the [verb]
-                     2. [time] before other adverbial phases
+              1. [subject] then [verb] then [object]
+              2. adverbial phrases before the [verb]
+              2. [time] before other adverbial phases
 
        subject       Just like English, subjects come at the start.
        
