@@ -78,7 +78,7 @@ AUTHORS
        development continued until 1912 when modern standardisation was started,
        this version formalised in 1956.
 
-LISCENCE
+LICENSE
 
        Public Domain
 
