@@ -18,7 +18,7 @@ SYNOPSIS
 
 DESCRIPTION
 
-       The mandarin protocol allows the users to communicate using short phrases
+       the mandarin protocol allows the users to communicate using short phrases
 
 ARGUMENTS
 
