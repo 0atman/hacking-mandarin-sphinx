@@ -3,7 +3,8 @@
 Here's the `man` page:
 
 ```yaml
-MANDARIN(1)                User Commands                     MANDARIN(1)
+MANDARIN                          User Commands                         MANDARIN
+
 NAME
 
        mandarin - natural-language protocol
