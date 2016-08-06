@@ -2,7 +2,7 @@
 
 Here's the `man` page:
 
-```ms
+```md
 MANDARIN                          User Commands                         MANDARIN
 
 NAME
