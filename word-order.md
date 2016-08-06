@@ -2,6 +2,7 @@
 
 Here's the `man` page:
 
+```md
 MANDARIN                          User Commands                         MANDARIN
 
 NAME
@@ -88,4 +89,4 @@ AVAILABILITY
 SEE ALSO
 
        Cantonese, Sichuanese, Shanghainese
-
+```
