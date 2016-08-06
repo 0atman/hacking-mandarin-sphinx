@@ -78,9 +78,13 @@ SEE ALSO
 
 AUTHORS
 
-       Public Domain
+       The original version was created during the Shang Dynasty, informal
+       development continued until 1912 when modern standardisation was started,
+       this version formalised in 1956.
 
-       The original version was developed during the Shang Dynasty
+LISCENCE
+
+       Public Domain
 
 AVAILABILITY
 
