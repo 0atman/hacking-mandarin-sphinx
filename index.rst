@@ -9,4 +9,5 @@ Table of Contents:
    :glob:
 
    introduction
+   pinyin
    word-order
