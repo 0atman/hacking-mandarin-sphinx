@@ -19,8 +19,6 @@ DESCRIPTION
 
        The mandarin protocol allows the users to communicate using short phrases
 
-       Most Chinese people can communicate using this protocol.
-
 ARGUMENTS
 
        The arguments are ordinal with the following 3 rules:
