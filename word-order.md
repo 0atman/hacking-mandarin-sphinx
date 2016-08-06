@@ -9,29 +9,21 @@ e.g.:
 Here's the `man` page:
 
 ```shell
-KILL(1)                         User Commands                        KILL(1)
-NAME         top
+MANDARIN(1)                User Commands                     MANDARIN(1)
+NAME
 
-       kill - terminate a process
-SYNOPSIS         top
+       manarin - communications protocol
+SYNOPSIS
 
-       kill [-signal|-s signal|-p] [-q value] [-a] [--] pid|name...
-       kill -l [number] | -L
-DESCRIPTION         top
+       mandarin: [subject] [verb] [object]
+       mandarin: subject [time] [place] [preposition] verb object
+       
+DESCRIPTION
 
-       The command kill sends the specified signal to the specified
-       processes or process groups.  If no signal is specified, the TERM
-       signal is sent.  This TERM signal will kill processes that do not
-       catch it; for other processes it may be necessary to use the KILL
-       signal (number 9), since this signal cannot be caught.
+       the mandarin protocol allows the users to communicate using short
+       phrases of meaning.
 
-       Most modern shells have a builtin kill function, with a usage rather
-       similar to that of the command described here.  The --all, --pid, and
-       --queue options, and the possibility to specify processes by command
-       name, are local extensions.
-
-       If signal is 0, then no actual signal is sent, but error checking is
-       still performed.
+       Most modern Chinese people can communicate using this protocol.
 ARGUMENTS         top
 
        The list of processes to be signaled can be a mixture of names and
