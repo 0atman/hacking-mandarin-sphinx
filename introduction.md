@@ -1,6 +1,16 @@
 
 
-#### Introduction
+#### Have I Got A Deal For You
 
-Pinyin ftw. Reading characters is fine, and can be picked up during vocab learning.
+
+
+
+
+
+
+
+
+
+
+> The title of this chapter was shamelessly stolen from  [Real World Haskell]()
 
