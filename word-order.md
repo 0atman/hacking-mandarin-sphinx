@@ -8,7 +8,7 @@ e.g.:
 
 Here's the `man` page:
 
-```
+```shell
 KILL(1)                         User Commands                        KILL(1)
 NAME         top
 
