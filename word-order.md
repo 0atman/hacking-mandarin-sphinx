@@ -2,7 +2,7 @@
 
 Here's the `man` page:
 
-```yaml
+```markdown
 MANDARIN                          User Commands                         MANDARIN
 
 NAME
