@@ -64,8 +64,8 @@ TONES
 NOTATION
        Mandarin is notated in pinyin, a phonetic romanisation of phonetic sounds
        Pinyin notates the above tones with accents suggesting the pitch:
-       wǒ chī bái fàn (I eat white rice)
-       3   1   2   4
+       Wǒ chī báifàn (I eat rice)
+       3   1   2  4
 
 SEE ALSO
 
