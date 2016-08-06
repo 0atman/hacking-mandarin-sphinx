@@ -5,7 +5,7 @@
 
 Here's the `man` page:
 
-```shell
+```sql
 MANDARIN(1)                User Commands                     MANDARIN(1)
 NAME
 
