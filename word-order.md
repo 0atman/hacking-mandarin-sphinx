@@ -62,6 +62,7 @@ TONES
               eg. the sharp scalding sound of "NO!"
 
 NOTATION
+
        Mandarin is notated in pinyin, a phonetic romanisation of phonetic sounds
        Pinyin notates the above tones with accents suggesting the pitch:
        Wǒ chī báifàn (I eat rice)
