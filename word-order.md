@@ -72,10 +72,6 @@ NOTATION
        Wǒ chī báifàn (I eat rice)
        3   1   2  4
 
-SEE ALSO
-
-       Cantonese, Sichuanese, Shanghainese
-
 AUTHORS
 
        The original version was created during the Shang Dynasty, informal
@@ -89,4 +85,8 @@ LISCENCE
 AVAILABILITY
 
        The protocol has 955 million users worldwide.
+
+SEE ALSO
+
+       Cantonese, Sichuanese, Shanghainese
 ```
