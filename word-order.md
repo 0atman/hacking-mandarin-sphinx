@@ -45,10 +45,6 @@ ARGUMENTS
                             possibilities include before the verb, before the
                             subject, or even omitted.
 
-NOTES
-
-       TODO
-
 TONES
 
        mandarin has the following tones:
