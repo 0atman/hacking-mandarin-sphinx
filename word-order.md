@@ -60,7 +60,7 @@ TONES
               eg. the rising question tone of "what?"
 
        3      falling-rising tone
-              eg. the confused sound of "uh?"
+              eg. the confused sound of "really?"
        
        4      Falling tone
               eg. the sharp scalding sound of "NO!"
