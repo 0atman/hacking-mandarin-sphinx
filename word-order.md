@@ -22,28 +22,32 @@ DESCRIPTION
 
 ARGUMENTS
 
-       The arguments are ordinal with the following 3 rules:
-              1. [subject] then [verb] then [object]
-              2. adverbial phrases before the [verb]
-              2. [time] before other adverbial phases
+       subject       Just like English, subjects come at the start
 
-       subject       Just like English, subjects come at the start.
-
-       time          Time expressions come immediately after the subject.
+       time          Time expressions come immediately after the subject
                      (the protocol allows for time before the subject)
 
        adverbial phrases, eg:
 
               place         To explain where an event happened,
-                            the place expression comes before the verb.
+                            the place expression comes before the verb
 
               preposition   These are phrases which qualify an activity. They
-                            are placed before the verb and after the place.
+                            are placed before the verb and after the place
        
-              object        the Mandarin object has a great deal of flexibility.
-                            It is usually placed after the verb, but other
-                            possibilities include before the verb, before the
-                            subject, or even omitted.
+       verb          the verb comes immediately before the object
+
+       object        the Mandarin object has a great deal of flexibility.
+                     It is usually placed after the verb, but other
+                     possibilities include before the verb, before the
+                     subject, or even omitted.
+
+NOTES
+
+       The arguments are ordinal with the following 3 rules:
+              1. [subject] then [verb] then [object]
+              2. adverbial phrases before the [verb]
+              2. [time] before other adverbial phases
 
 TONES
 
