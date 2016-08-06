@@ -53,7 +53,7 @@ TONES
        mandarin has the following tones:
 
        1      High, flat tone.
-              eg. the first sylable of `MAYbe`
+              eg. the first sylable of "MAYbe"
 
        2      Low-rising tone
               eg. the rising question tone of "what?"
