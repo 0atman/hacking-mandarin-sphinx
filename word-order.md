@@ -17,11 +17,11 @@ SYNOPSIS
        
 DESCRIPTION
 
-       the mandarin protocol allows the users to communicate using short
-       phrases of meaning.
+       The mandarin protocol allows the users to communicate using short phrases
 
-       Most modern Chinese people can communicate using this protocol.
-ARGUMENTS         top
+       Most Chinese people can communicate using this protocol.
+
+ARGUMENTS
 
        The arguments are ordinal with the following 3 rules:
                      1. [subject] then [verb] then [object]
@@ -36,13 +36,13 @@ ARGUMENTS         top
        place         To explain where an event happened,
                      the place expression comes before the verb.
        
-       preposition   These are phrases which qualify an activity.
-                     They are placed before the verb and after the place.
-       
-       object        the Mandarin Chinese object has a great deal of flexibility.
-                     It is usually placed after the verb,
-                     but other possibilities include before the verb,
-                     before the subject, or even omitted.
+       preposition   These are phrases which qualify an activity. They are
+                     placed before the verb and after the place.
+
+       object        the Mandarin object has a great deal of flexibility. It is
+                     usually placed after the verb, but other possibilities
+                     include before the verb, before the subject, or even 
+                     omitted.
 
 NOTES
 
