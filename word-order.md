@@ -1,3 +1,3 @@
-## Word Order
+#### Word Order
 
 `SUBJECT TIME PLACE PREPOSITION VERB OBJECT`
