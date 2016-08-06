@@ -11,7 +11,7 @@ NAME
 SYNOPSIS
 
        mandarin: subject verb [object]
-       mandarin: subject [time] [place] [preposition] verb [object]
+       mandarin: subject [time] [adverbial phrases] verb [object]
        
        eg. "Gimli yesterday at Helm's Deep with Legolas smote some orcs."
        
@@ -27,20 +27,22 @@ ARGUMENTS
               2. [time] before other adverbial phases
 
        subject       Just like English, subjects come at the start.
-       
+
        time          Time expressions come immediately after the subject.
                      (the protocol allows for time before the subject)
-       
-       place         To explain where an event happened,
-                     the place expression comes before the verb.
-       
-       preposition   These are phrases which qualify an activity. They are
-                     placed before the verb and after the place.
 
-       object        the Mandarin object has a great deal of flexibility. It is
-                     usually placed after the verb, but other possibilities
-                     include before the verb, before the subject, or even 
-                     omitted.
+       adverbial phrases, eg:
+
+              place         To explain where an event happened,
+                            the place expression comes before the verb.
+
+              preposition   These are phrases which qualify an activity. They
+                            are placed before the verb and after the place.
+       
+              object        the Mandarin object has a great deal of flexibility.
+                            It is usually placed after the verb, but other
+                            possibilities include before the verb, before the
+                            subject, or even omitted.
 
 NOTES
 
