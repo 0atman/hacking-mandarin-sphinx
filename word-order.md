@@ -12,8 +12,8 @@ NAME
        manarin - natural-language protocol
 SYNOPSIS
 
-       mandarin: [subject] [verb] [object]
-       mandarin: subject [time] [place] [preposition] verb object
+       mandarin: subject verb [object]
+       mandarin: subject [time] [place] [preposition] verb [object]
        
 DESCRIPTION
 
@@ -23,50 +23,47 @@ DESCRIPTION
        Most modern Chinese people can communicate using this protocol.
 ARGUMENTS         top
 
-       The list of processes to be signaled can be a mixture of names and
-       pids.
+       The arguments are ordinal with the following 3 rules:
+                     1. [subject] then [verb] then [object]
+                     2. adverbial phrases before the [verb]
+                     2. [time] before other adverbial phases
 
-       pid    Each pid can be one of four things:
+       subject       Just like English, subjects come at the start.
+       
+       time          Time expressions come immediately after the subject.
+                     (the protocol allows for time before the subject)
+       
+       place         To explain where an event happened,
+                     the place expression comes before the verb.
+       
+       preposition   These are phrases which qualify an activity.
+                     They are placed before the verb and after the place.
+       
+       object        the Mandarin Chinese object has a great deal of flexibility.
+                     It is usually placed after the verb,
+                     but other possibilities include before the verb,
+                     before the subject, or even omitted.
 
-              n      where n is larger than 0.  The process with pid n is
-                     signaled.
+NOTES
 
-              0      All processes in the current process group are
-                     signaled.
+       TODO
 
-              -1     All processes with a pid larger than 1 are signaled.
+TONES
 
-              -n     where n is larger than 1.  All processes in process
-                     group n are signaled.  When an argument of the form
-                     '-n' is given, and it is meant to denote a process
-                     group, either a signal must be specified first, or the
-                     argument must be preceded by a '--' option, otherwise
-                     it will be taken as the signal to send.
+       mandarin has the following tones:
 
-       name   All processes invoked using this name will be signaled.
+       1      High, flat tone.
+              eg. the first sylable of "MAYbe"
 
-NOTES         top
+       2      Low-rising tone
+              eg. the rising question tone of "what?"
 
-       It is not possible to send a signal to an explicitly selected thread
-       in a multithreaded process using the kill(2) syscall.  If kill(2) is
-       used to send a signal to a thread group, then the kernel selects an
-       arbitrary member of the thread group that has not blocked the signal.
-       For more details see clone(2), the CLONE_THREAD description.
+       3      falling-rising tone
+              eg. the confused sound of "uh?"
+       
+       4      Falling tone
+              eg. the sharp scalding sound of "NO!"
 
-       The command kill(1) as well as syscall kill(2) accept a TID (thread
-       ID, see gettid(2)) as an argument.  In this case the kill behavior is
-       not changed and the signal is also delivered to the thread group
-       rather than to the specified thread.
-
-RETURN CODES
-
-       kill has the following return codes:
-
-       0      success
-
-       1      failure
-
-       64     partial success (when more than one process specified)
 SEE ALSO
 
        Cantonese, Sichuanese, Shanghainese
